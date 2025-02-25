@@ -110,7 +110,7 @@ main{
 #hq{
     
     height: 480;
-    width: 1500;
+    width: 1540;
     align-items:center ;  
     background-color: white;
     margin: 20;
@@ -122,7 +122,7 @@ main{
 #JvT{
     
     height: 400;
-    width: 1800; 
+    width: 1500; 
     background-color: white;
     margin: 20;
     color: black;
