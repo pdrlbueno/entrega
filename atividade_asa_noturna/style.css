@@ -7,6 +7,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     
+    
 }
 
 #navbar{
@@ -19,12 +20,27 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    border-style: solid;
+    border-bottom: 6;
+    border-color: DeepSkyBlue;
+    border-top: 0cap;
+    border-left: 0;
+    border-right: 0;
 }
 
 #rodape{
-    background-color:rgb(54, 54, 128);
-    height: 30;
-    text-align: right;
+    background-color: rgb(37, 37, 201);
+    height: 50;
+    text-align: center;
+    color: black;
+    font-size: larger;
+    text-decoration: underline;
+    border-top: 6;
+    border-style: solid;
+    border-color: DeepSkyBlue;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0cap;
 }
 main{
     display: flex;
@@ -45,7 +61,9 @@ main{
     margin: 20;
     color: black;
     padding: 30;
-    border-top: 0;
+    border-style: solid;
+    border: 6;
+    border-color: DeepSkyBlue;
     
 }
 .info{
@@ -63,6 +81,10 @@ main{
     padding: 30;
     
     align-items: center;
+    border-style: solid;
+    border: 6;
+    border-color: DeepSkyBlue;
+    
     
 }
 .Bat_fm{
@@ -83,6 +105,10 @@ main{
     color: black;
     padding: 30;
     text-align: center;
+    border-style: solid;
+    border: 6;
+    border-color: DeepSkyBlue;
+    
     
     
 }
@@ -116,7 +142,10 @@ main{
     margin: 20;
     color: black;
     padding: 10;
-    border-top: 0;
+    border-style: solid;
+    border: 6;
+    border-color: DeepSkyBlue;
+    
 }
 
 #JvT{
@@ -129,6 +158,10 @@ main{
     padding: 30;
     
     align-items: center;
+    border-style: solid;
+    border: 6;
+    border-color: DeepSkyBlue;
+    
     
 }
 .JvT{
