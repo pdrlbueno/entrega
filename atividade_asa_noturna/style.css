@@ -1,0 +1,120 @@
+body{
+    
+    border: 0;
+    margin: 0;
+    padding: 0; 
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+#navbar{
+    
+    background-color: rgb(37, 37, 201);
+    margin: 0;
+    padding:10px;
+    height: 90;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#rodape{
+    background-color:rgb(54, 54, 128);
+    height: 20;
+    text-align: right;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#icon{
+ height: 250 ;
+ width: 210 ;
+ 
+}
+#info{
+    display: flex;
+    height: 420;
+    width: 1500;
+    align-items:center ;  
+    background-color: white;
+    margin: 20;
+    color: black;
+    padding: 30;
+    border-top: 0;
+    
+}
+.info{
+ padding: 30;
+ text-align: left;
+}
+
+#Bat_fm{
+    
+    height: 400;
+    width: 1500; 
+    background-color: white;
+    margin: 20;
+    color: black;
+    padding: 30;
+    
+    align-items: center;
+    
+}
+.Bat_fm{
+ padding: 5px;
+ margin: 5;
+ font-size: 20;
+ background-color: rgb(37, 37, 201);
+ text-align: center;
+ height: 290;
+}
+#vil{
+    
+    height: 400;
+    width: 1500;
+    align-items:center ;  
+    background-color: white;
+    margin: 20;
+    color: black;
+    padding: 30;
+    text-align: center;
+    
+    
+}
+.vil_im{
+    height: 250 ;
+    width: 210 ;
+    padding: 5;
+}
+.vil{
+    padding: 10;
+    background-color: rgba(219, 20, 20, 0.829);
+    text-align: center;
+    margin: 5;
+   }
+#organizacao{
+    display: flex;
+    justify-content: center;
+}
+.hq_img{
+    width: 300;
+    height: 400 ;
+    padding: 5;
+}
+
+#hq{
+    
+    height: 480;
+    width: 1500;
+    align-items:center ;  
+    background-color: white;
+    margin: 20;
+    color: black;
+    padding: 10;
+    border-top: 0;
+}
