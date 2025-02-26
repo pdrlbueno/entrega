@@ -172,3 +172,18 @@ main{
  text-align: center;
  height: 290;
 }
+
+#filmes{
+    
+    height: 520;
+    width: 1540;
+    align-items:center ;  
+    background-color: white;
+    margin: 20;
+    color: black;
+    padding: 10;
+    border-style: solid;
+    border: 6;
+    border-color: DeepSkyBlue;
+    
+}
