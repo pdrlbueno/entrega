@@ -30,8 +30,7 @@ body{
 
 #rodape{
     background-color: rgb(37, 37, 201);
-    height: 50;
-    text-align: center;
+    height: 50;  
     color: black;
     font-size: larger;
     text-decoration: underline;
@@ -41,6 +40,14 @@ body{
     border-left: 0;
     border-right: 0;
     border-bottom: 0cap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rodape{
+    margin: 5;
+    padding: 5;
 }
 main{
     display: flex;
